@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 * [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [X] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
+* [X] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
