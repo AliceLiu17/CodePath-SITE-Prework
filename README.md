@@ -4,7 +4,7 @@
 
 Submitted by: **ALICE LIU**
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/light-gusty-bath?path=index.html%3A1%3A0) (https://light-gusty-bath.glitch.me/)
 
