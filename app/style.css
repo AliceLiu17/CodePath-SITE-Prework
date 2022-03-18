@@ -1,0 +1,103 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 2em;
+  font-family: helvetica, arial, sans-serif;
+  background-color: slategrey;
+  color: white;
+  text-align: center;
+}
+
+h1, h2{
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 2px; 
+  background-color: grey;
+  color: white;
+  font-size: 18px;
+}
+
+#gameButtonArea > Button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button3 {
+  background: pink;
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+#button5 {
+  background: #CBC3E3;
+}
+
+#button6 {
+  background: #FF8F00;
+}
+
+/* active is what lets each button light up */
+
+#button1:active, #button1.lit {
+  background-image: url("https://cdn.glitch.global/287cc933-19b8-44bb-81d7-3db9847987f4/spring.jpeg?v=1647565639070");
+/*   background: green; */
+}
+
+#button2:active, #button2.lit {
+  background-image: url("https://cdn.glitch.global/287cc933-19b8-44bb-81d7-3db9847987f4/snow.jpeg?v=1647565093341");
+/*   background: blue; */
+}
+
+#button3:active, #button3.lit {
+  background-image: url("https://cdn.glitch.global/287cc933-19b8-44bb-81d7-3db9847987f4/summer.jpeg?v=1647565421791");
+/*   background: red; */
+}
+
+#button4:active, #button4.lit {
+  background-image: url("https://cdn.glitch.global/287cc933-19b8-44bb-81d7-3db9847987f4/sun.jpeg?v=1647571701982");
+/*   background: yellow; */
+}
+
+#button5:active, #button5.lit {
+  background-image: url("https://cdn.glitch.global/287cc933-19b8-44bb-81d7-3db9847987f4/purp.jpeg?v=1647571827167");
+}
+
+#button6:active, #button6.lit {
+  background-image: url("https://cdn.glitch.global/287cc933-19b8-44bb-81d7-3db9847987f4/fall.jpeg?v=1647565529782");
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
