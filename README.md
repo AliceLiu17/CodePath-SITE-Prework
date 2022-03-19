@@ -49,10 +49,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 I used the following sources: 
 - W3Schools
 - Boostrap
-- Previous notes from Breakthrough Tech where I learned introductory HTML, CSS, and JS
+- Previous notes from Breakthrough Tech (BTT) where I learned introductory HTML, CSS, and JS
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-A challenge in creating this submission was trying to understand the javascript code such as the guess function. The guess function required me to add 
+A challenge in creating this submission was first, having a refresher on HTML and CSS. Trying to get my feet back into these subject took a while but I eventually figured it out. Moreover, I learned new topics such as, implementing the javascript functions into the HTML file. Other challenges was  trying to understand the javascript code. Prior to this, I had very little experience with javascript. Even when I was in BTT, they briefly touched on the subject. Therefore, trying to understand the differences in syntax from other coding languages was an experiment and it required the reliance on outside resources such as W3Schools and Google to understand it. Coding the guess function on my own was a challenge as well. But for me, it was a nice way to understand previous code written and what each global variables was for. For me to overcome it, it took time to figure it out. Additionally, the diagram did contribute to writing the if statements and the different scenarios to consider. Overall, I learned a lot from this assignment. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 Some questions I have on web development is, while doing some research to understand how to complete some of the optional tasks, I came across terms such as HTTP 2.0 and HTTP 1.1. What are the differences? What are some advantages they have over each other? Moreover, I'm also curious as to how web developers are able to decrease the loading time when accessing a site. Another question I had while working on this assignment was trying to wrap my head around how people coded things to make it work interactively. For instance, when analyzing the sound frquency function, how did they code the oscillating? How did they associate that frequency number to actual sound frequency? Overall, I have several questions about the back end of the code. 
