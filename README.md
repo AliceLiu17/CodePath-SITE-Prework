@@ -52,14 +52,13 @@ I used the following sources:
 - Previous notes from Breakthrough Tech where I learned introductory HTML, CSS, and JS
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-A challenge in creating this submission was trying to figure out the background-image. I was attempting to 
+A challenge in creating this submission was trying to understand the javascript code such as the guess function. The guess function required me to add 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+Some questions I have on web development is, while doing some research to understand how to complete some of the optional tasks, I came across terms such as HTTP 2.0 and HTTP 1.1. What are the differences? What are some advantages they have over each other? Moreover, I'm also curious as to how web developers are able to decrease the loading time when accessing a site. Another question I had while working on this assignment was trying to wrap my head around how people coded things to make it work interactively. For instance, when analyzing the sound frquency function, how did they code the oscillating? How did they associate that frequency number to actual sound frequency? Overall, I have several questions about the back end of the code. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+If I had more time to work on this project I would try to figure out the other optional tasks that were provided for us. Due to time constraints, I couldn't complete adding a ticking tock, speed it up, random pattern, and giving the player 3 strikes. I definitely wanted to learn more about javascript by figuring those tasks. Additional features I'd add to the game would be keeping records of game. To expand on it, I want the game to have increase the number of patterns with each play in addition with random pattern. The player try to beat their game record. When beated, there would be a notification of "new record". 
 
 
 ## Interview Recording URL Link
@@ -69,7 +68,7 @@ A challenge in creating this submission was trying to figure out the background-
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [ALICE LIU]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
