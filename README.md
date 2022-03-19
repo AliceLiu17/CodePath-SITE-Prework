@@ -64,7 +64,7 @@ A challenge in creating this submission was trying to figure out the background-
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://ccny.zoom.us/rec/share/xxkl9z_GVe3ak9AVcikEF8y-LvcQu5x0A5X4sgZvddsFaG4oukfzwORB6dxgME-P.4JbWPYsJw1G0RwJC?startTime=1647713881000)
 
 
 ## License
